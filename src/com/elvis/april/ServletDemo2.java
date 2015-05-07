@@ -24,7 +24,7 @@ public class ServletDemo2 extends HttpServlet {
 
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		response.getWriter().print("222222");
+		response.getWriter().print("...3333");
 	}
 
 	/**

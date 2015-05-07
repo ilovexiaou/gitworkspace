@@ -10,9 +10,11 @@ PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
 	<servlet>
 		<servlet-name>ServletDemo1</servlet-name>
 		<servlet-class>com.elvis.april.ServletDemo1</servlet-class>
+		
 	</servlet>
 	<servlet-mapping>
 		<servlet-name>ServletDemo1</servlet-name>
 		<url-pattern>/ServletDemo1</url-pattern>
+		
 	</servlet-mapping>
 </web-app>
